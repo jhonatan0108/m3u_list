@@ -6,7 +6,7 @@ http://s4.latino-webtv.ml:8000/rcnhd/playlist.m3u8
 #EXTINF:-1,WIN SPORT
 http://s4.latino-webtv.ml:8000/winhd/playlist.m3u8
 #EXTINF:-1,DIRECTV SPORTS
-http://s4.latino-webtv.ml:8000/directv/playlist.m3u8
+http://199.223.255.67:8080/images/admin/progress/47727_.m3u8
 #EXTINF:-1,FOX SPORTS
 http://s4.latino-webtv.ml:8000/foxsports/playlist.m3u8
 #EXTINF:-1,FOX SPORTS 2
