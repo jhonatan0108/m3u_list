@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,CARACOL
+http://s4.latino-webtv.ml:8000/caracolhd/playlist.m3u8
+#EXTINF:-1,RCN
+http://s4.latino-webtv.ml:8000/rcnhd/playlist.m3u8
+#EXTINF:-1,WIN SPORT
+http://s4.latino-webtv.ml:8000/winhd/playlist.m3u8
+#EXTINF:-1,DIRECTV SPORTS
+http://s4.latino-webtv.ml:8000/directv/playlist.m3u8
+#EXTINF:-1,FOX SPORTS
+http://s4.latino-webtv.ml:8000/foxsports/playlist.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://s4.latino-webtv.ml:8000/foxsports2/playlist.m3u8
+#EXTINF:-1,ESPN HD
+http://s4.latino-webtv.ml:8000/CANAL516/PROFILE03.m3u8
+#EXTINF:-1,ESPN 2
+http://s4.latino-webtv.ml:8000/CANAL561/PROFILE03.m3u8
+#EXTINF:-1,ESPN 3
+http://s4.latino-webtv.ml:8000/CANAL520/PROFILE03.m3u8
+#EXTINF:-1,+ LIGA
+http://s4.latino-webtv.ml:8000/ligaplus/playlist.m3u8
+#EXTINF:-1,FOX
+http://s4.latino-webtv.ml:8000/CANAL201/PROFILE03.m3u8
+#EXTINF:-1,WARNER CHANNEL
+http://s4.latino-webtv.ml:8000/CANAL205/PROFILE03.m3u8
+#EXTINF:-1,CMD HD
+http://s4.latino-webtv.ml:8000/cmd/playlist.m3u8
+#EXTINF:-1,SYFY
+http://s4.latino-webtv.ml:8000/CANAL257/PROFILE03.m3u8
+#EXTINF:-1,FOX ACTION
+http://s4.latino-webtv.ml:8000/CANAL416/PROFILE03.m3u8
+#EXTINF:-1,TNT HD
+http://s4.latino-webtv.ml:8000/CANAL435/PROFILE03.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://s4.latino-webtv.ml:8000/CANAL371/PROFILE03.m3u8
+#EXTINF:-1,SPACE HD
+http://s4.latino-webtv.ml:8000/CANAL445/PROFILE03.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://s4.latino-webtv.ml:8000/CANAL207/PROFILE03.m3u8
+#EXTINF:-1,FOX 1
+http://s4.latino-webtv.ml:8000/CANAL415/PROFILE03.m3u8
+#EXTINF:-1,TNT SERIES
+http://s4.latino-webtv.ml:8000/CANAL266/PROFILE03.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://s4.latino-webtv.ml:8000/CANAL263/PROFILE03.m3u8
+#EXTINF:-1,RCN HD 2
+http://s4.latino-webtv.ml:8000/rcnhd2/playlist.m3u8
+#EXTINF:-1,SONY
+http://s4.latino-webtv.ml:8000/CANAL203/PROFILE03.m3u8
+#EXTINF:-1,FX
+http://s4.latino-webtv.ml:8000/CANAL209/PROFILE03.m3u8
+#EXTINF:-1,FOX MOVIES
+http://s4.latino-webtv.ml:8000/CANAL417/PROFILE03.m3u8
+#EXTINF:-1,CINEMAX
+http://s4.latino-webtv.ml:8000/CANAL481/PROFILE03.m3u8
